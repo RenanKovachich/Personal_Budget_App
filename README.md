@@ -26,4 +26,4 @@
 - Tkinter
 - PIL (Pilow)
 
-- https://www.usandopy.com/pt/artigo/como-fazer-aplicativo-de-orcamento-em-python/
+- https://www.usandopy.com/pt/artigo/como-gerar-senhas-aleatorias-em-python-usando-o-modulo-random/
